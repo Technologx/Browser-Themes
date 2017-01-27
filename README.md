@@ -1,5 +1,7 @@
 [![Join the chat at https://gitter.im/Browser-Themes/Lobby](https://badges.gitter.im/Browser-Themes/Lobby.svg)](https://gitter.im/Browser-Themes/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 # Browser-Themes
+
+[![Join the chat at https://gitter.im/Browser-Themes/Lobby](https://badges.gitter.im/Browser-Themes/Lobby.svg)](https://gitter.im/Browser-Themes/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A collection of themes for Firefox &amp; Google Chrome
 
 ## Theme & Which Browser:
