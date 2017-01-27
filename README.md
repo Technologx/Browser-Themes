@@ -1,4 +1,4 @@
-[![Donate to us at https://paypal.me/Technologx](https://technologx.com/github/donations.svg)](https://paypal.me/Technologx) [![Join the chat at https://gitter.im/Browser-Themes/Lobby](https://badges.gitter.im/Browser-Themes/Lobby.svg)](https://gitter.im/Browser-Themes/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Visit us at https://technologx.com](https://technologx.com/github/forum.svg)](https://technologx.com)
+[![Donate](https://technologx.com/github/donations.svg)](https://paypal.me/Technologx) [![Join the chat at https://gitter.im/Browser-Themes/Lobby](https://badges.gitter.im/Browser-Themes/Lobby.svg)](https://gitter.im/Browser-Themes/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Forum](https://technologx.com/github/forum.svg)](https://technologx.com) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 # Browser-Themes
 A collection of themes for Firefox &amp; Google Chrome
 
