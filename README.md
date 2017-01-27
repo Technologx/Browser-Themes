@@ -7,7 +7,8 @@ A collection of themes for Firefox &amp; Google Chrome
 ### C
 Theme Title                  | Theme Description               | Preview             | Download 
 :------------------------ | :------------------------: | :------------------------: | :------------------------:
-Carved Chrome | Awesome looking Carved Google Chrome theme for your Chrome!| <img style="-webkit-user-select: none" src='https://github.com/Technologx/Browser-Themes/blob/master/Previews/Chrome/carved_chrome.png'> | <a href='http://adf.ly/1imS30' target='_blank'><img src='https://developer.chrome.com/webstore/images/ChromeWebStore_Badge_v2_340x96.png'></a>| <img src='http://www.iconarchive.com/download/i61935/appicns/simplified-app/appicns-Chrome.ico' height='92px' width='92px'>
+Carved Chrome | Awesome looking Carved Google Chrome theme for your Chrome!| <img style="-webkit-user-select: none" src='https://github.com/Technologx/Browser-Themes/blob/master/Previews/Chrome/carved_chrome.png'> | <a href='http://adf.ly/1imS30' target='_blank'><img src='https://developer.chrome.com/webstore/images/ChromeWebStore_Badge_v2_340x96.png'></a>
+Carved FireFox | Awesome looking Carved Fox FireFox for your FireFox!| <img style="-webkit-user-select: none" src='https://github.com/Technologx/Browser-Themes/blob/master/Previews/Chrome/carved_chrome.png'> | <a href='http://adf.ly/1in4YQ' target='_blank'><img src='https://marketplace.cdn.mozilla.net/media/img/mkt/badges/firefox-marketplace_badge-orange_116_40.png?b=2889250-585c400b'></a>
 
 ### T
 Theme Title                  | Theme Description               | Preview             | Download 
