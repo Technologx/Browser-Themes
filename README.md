@@ -15,3 +15,5 @@ Theme Title                  | Theme Description               | Preview        
 :------------------------ | :------------------------: | :------------------------: | :------------------------:
 Technologx 3D | A 3D looking personna created for technologx.com| <img style="-webkit-user-select: none" src="https://github.com/Technologx/Browser-Themes/blob/master/Previews/FireFox/technologx_3d.png"> | <a href='http://adf.ly/1impAz' target='_blank'><img src='https://marketplace.cdn.mozilla.net/media/img/mkt/badges/firefox-marketplace_badge-orange_116_40.png?b=2889250-585c400b'></a>
 TrapZoid | A very unique Chrome Theme it's the TrapZoid theme!| <img style="-webkit-user-select: none" src="https://github.com/Technologx/Browser-Themes/blob/master/Previews/Chrome/trapzoid.png"> | <a href='http://adf.ly/1imSvc' target='_blank'><img src='https://developer.chrome.com/webstore/images/ChromeWebStore_Badge_v2_340x96.png'></a>
+
+[![Donate to us at https://paypal.me/Technologx](https://technologx.com/github/donations.svg)](https://paypal.me/Technologx)
