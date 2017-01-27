@@ -1,4 +1,4 @@
-[![Join the chat at https://gitter.im/Browser-Themes/Lobby](https://badges.gitter.im/Browser-Themes/Lobby.svg)](https://gitter.im/Browser-Themes/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) | [![Visit us at https://technologx.com](https://technologx.com/github/forum.svg)](https://technologx.com)
+[![Join the chat at https://gitter.im/Browser-Themes/Lobby](https://badges.gitter.im/Browser-Themes/Lobby.svg)](https://gitter.im/Browser-Themes/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Visit us at https://technologx.com](https://technologx.com/github/forum.svg)](https://technologx.com) [![Donate to us at https://paypal.me/Technologx](https://technologx.com/github/forum.svg)](https://paypal.me/Technologx)
 # Browser-Themes
 A collection of themes for Firefox &amp; Google Chrome
 
