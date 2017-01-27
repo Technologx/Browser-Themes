@@ -4,7 +4,7 @@
 <a href='http://adf.ly/1incKk' target='_blank'><img src='https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_64x64.png'></a>  
 A collection of themes for Firefox &amp; Google Chrome
 
-## Theme & Which Browser:
+## Theme's List:
 
 ### C
 Theme Title                  | Theme Description               | Preview             | Download 
