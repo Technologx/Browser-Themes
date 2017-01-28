@@ -10,7 +10,7 @@ A collection of themes for Firefox &amp; Google Chrome
 
 **Sorry for the adf.ly links I use them to try and get money to keep my <a href='http://adf.ly/1ZQ6rs' target='_blank'>website</a> up &amp; running.
 
-### To get your theme on this list you need to 1st fork this project then 2nd submit a pull request after you done a edit on the README.md. Now if there isn't a letter for your theme then add one make sure you add it to the right area &amp; use the correct format as already shown.
+### To get your theme on this list you need to 1st fork this project then 2nd submit a pull request after you done a edit on the README.md. Now if there isn't a letter for your theme then add one make sure you add it to the right area &amp; use the correct format as already shown. Also add any new letter to the quick jump menu above this will help users navigate the list better.
 Thank you for checking out Browser Themes hope this helps gain you some downloads!
 
 ## Theme's List:
