@@ -7,7 +7,7 @@
 
 <a href='https://github.com/Technologx/Browser-Themes/tree/master/Themes/Chrome/' target='_blank'><img src='https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_64x64.png'></a>
 <a href='https://github.com/Technologx/Browser-Themes/tree/master/Themes/FireFox/' target='_blank'><img src='https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_64x64.png'></a>  👈 Click a browser image to view it's category
-A collection of themes for Firefox &amp; Google Chrome
+<br />
 
 **Sorry for the adf.ly links I use them to try and get money to keep my <a href='http://adf.ly/1ZQ6rs' target='_blank'>website</a> up &amp; running.
 
