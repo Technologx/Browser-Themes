@@ -1,3 +1,74 @@
+<!-- Return to Top -->
+<a href="javascript:" id="return-to-top"><i class="icon-chevron-up"></i></a>
+
+
+<!-- ICON NEEDS FONT AWESOME FOR CHEVRON UP ICON -->
+<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+
+  
+<!-- Test the scroll -->
+<div style="height:2000px;">
+<style>
+#return-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.7);
+    width: 50px;
+    height: 50px;
+    display: block;
+    text-decoration: none;
+    -webkit-border-radius: 35px;
+    -moz-border-radius: 35px;
+    border-radius: 35px;
+    display: none;
+    -webkit-transition: all 0.3s linear;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+#return-to-top i {
+    color: #fff;
+    margin: 0;
+    position: relative;
+    left: 16px;
+    top: 13px;
+    font-size: 19px;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+#return-to-top:hover {
+    background: rgba(0, 0, 0, 0.9);
+}
+#return-to-top:hover i {
+    color: #fff;
+    top: 5px;
+}
+
+
+/* Extra Things */
+body{background: #eee ;font-family: 'Open Sans', sans-serif;}h3{font-size: 30px; font-weight: 400;text-align: center;margin-top: 50px;}h3 i{color: #444;}
+</style>
+<script>
+// ===== Scroll to Top ==== 
+$(window).scroll(function() {
+    if ($(this).scrollTop() >= 50) {        // If page is scrolled more than 50px
+        $('#return-to-top').fadeIn(200);    // Fade in the arrow
+    } else {
+        $('#return-to-top').fadeOut(200);   // Else fade out the arrow
+    }
+});
+$('#return-to-top').click(function() {      // When arrow is clicked
+    $('body,html').animate({
+        scrollTop : 0                       // Scroll to top of body
+    }, 500);
+});
+</script>
 [![Donate](http://firebirddesigns.net16.net/github/donations.svg)](http://adf.ly/1ipzK8) [![Join the chat at https://gitter.im/Browser-Themes/Lobby](https://badges.gitter.im/Browser-Themes/Lobby.svg)](http://adf.ly/1ipzPt) [![Forum](http://firebirddesigns.net16.net/github/forum.svg)](https://technologx.com) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](http://adf.ly/1ipzTa) [![Mozilla Add-on](http://firebirddesigns.net16.net/github/mozilla.svg)](https://addons.mozilla.org/en-US/firefox/user/Technologx/) [![Chrome Web Store](http://firebirddesigns.net16.net/github/chrome.svg)](http://adf.ly/1iq0Ua) [![GitHub forks](http://firebirddesigns.net16.net/github/fork.svg)](https://github.com/Technologx/Browser-Themes#fork-destination-box) [![GitHub stars](http://firebirddesigns.net16.net/github/star.svg)](https://github.com/Technologx/Browser-Themes/Star) [![GitHub pull requests](http://firebirddesigns.net16.net/github/pull.svg)](https://github.com/Technologx/Browser-Themes/pulls)<br />
 #### Click 1 of the badges above to visit the attached link they are also below the theme's list.
 # Browser Themes <br />
@@ -29,3 +100,5 @@ TrapZoid | A very unique Chrome Theme it's the TrapZoid theme!| <img style="-web
 
 <br />
 [![Donate](http://firebirddesigns.net16.net/github/donations.svg)](http://adf.ly/1ipzK8) [![Join the chat at https://gitter.im/Browser-Themes/Lobby](https://badges.gitter.im/Browser-Themes/Lobby.svg)](http://adf.ly/1ipzPt) [![Forum](http://firebirddesigns.net16.net/github/forum.svg)](https://technologx.com) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](http://adf.ly/1ipzTa) [![Mozilla Add-on](http://firebirddesigns.net16.net/github/mozilla.svg)](https://addons.mozilla.org/en-US/firefox/user/Technologx/) [![Chrome Web Store](http://firebirddesigns.net16.net/github/chrome.svg)](http://adf.ly/1iq0Ua) [![GitHub forks](http://firebirddesigns.net16.net/github/fork.svg)](https://github.com/Technologx/Browser-Themes#fork-destination-box) [![GitHub stars](http://firebirddesigns.net16.net/github/star.svg)](https://github.com/Technologx/Browser-Themes/Star) [![GitHub pull requests](http://firebirddesigns.net16.net/github/pull.svg)](https://github.com/Technologx/Browser-Themes/pulls)
+
+</div>
