@@ -16,13 +16,15 @@ Thank you for checking out Browser Themes hope this helps gain you some download
 
 ## Theme's List:
 
-## <a href='#c'>C</a> <a href='#top'><img src='https://raw.githubusercontent.com/Technologx/Browser-Themes/master/Extras/top.png' height='32px' width='32px'></a>
+## <a href='#c'>C</a> <br />
+<a href='#top'><img src='https://raw.githubusercontent.com/Technologx/Browser-Themes/master/Extras/top.png' height='32px' width='32px'></a>
 Theme Title                  | Theme Description               | Preview             | Download 
 :------------------------ | :------------------------: | :------------------------: | :------------------------:
 Carved Chrome | Awesome looking Carved Google Chrome theme for your Chrome!| <img style="-webkit-user-select: none" src='https://github.com/Technologx/Browser-Themes/blob/master/Previews/Chrome/carved_chrome.png'> | <a href='http://adf.ly/1imS30' target='_blank'><img src='https://developer.chrome.com/webstore/images/ChromeWebStore_Badge_v2_340x96.png'></a>
 Carved FireFox | Awesome looking Carved Fox FireFox for your FireFox!| <img style="-webkit-user-select: none" src='https://github.com/Technologx/Browser-Themes/blob/master/Previews/FireFox/carved_fox.png'> | <a href='http://adf.ly/1in4YQ' target='_blank'><img src='https://marketplace.cdn.mozilla.net/media/img/mkt/badges/firefox-marketplace_badge-orange_116_40.png?b=2889250-585c400b'></a>
 
-## <a href='#t'>T</a> <a href='#top'><img src='https://raw.githubusercontent.com/Technologx/Browser-Themes/master/Extras/top.png' height='32px' width='32px'></a>
+## <a href='#t'>T</a> <br />
+<a href='#top'><img src='https://raw.githubusercontent.com/Technologx/Browser-Themes/master/Extras/top.png' height='32px' width='32px'></a>
 Theme Title                  | Theme Description               | Preview             | Download 
 :------------------------ | :------------------------: | :------------------------: | :------------------------:
 Technologx 3D | A 3D looking personna created for technologx.com| <img style="-webkit-user-select: none" src="https://github.com/Technologx/Browser-Themes/blob/master/Previews/FireFox/technologx_3d.png"> | <a href='http://adf.ly/1impAz' target='_blank'><img src='https://marketplace.cdn.mozilla.net/media/img/mkt/badges/firefox-marketplace_badge-orange_116_40.png?b=2889250-585c400b'></a>
