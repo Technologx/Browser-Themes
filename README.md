@@ -1,7 +1,7 @@
 <a href='#top'></a>
 [![Donate](http://firebirddesigns.net16.net/github/donations.svg)](http://adf.ly/1ipzK8) [![Join the chat at https://gitter.im/Browser-Themes/Lobby](https://badges.gitter.im/Browser-Themes/Lobby.svg)](http://adf.ly/1ipzPt) [![Forum](http://firebirddesigns.net16.net/github/forum.svg)](https://technologx.com) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](http://adf.ly/1ipzTa) [![Mozilla Add-on](http://firebirddesigns.net16.net/github/mozilla.svg)](https://addons.mozilla.org/en-US/firefox/user/Technologx/) [![Chrome Web Store](http://firebirddesigns.net16.net/github/chrome.svg)](http://adf.ly/1iq0Ua) [![GitHub forks](http://firebirddesigns.net16.net/github/fork.svg)](https://github.com/Technologx/Browser-Themes#fork-destination-box) [![GitHub stars](http://firebirddesigns.net16.net/github/star.svg)](https://github.com/Technologx/Browser-Themes/Star) [![GitHub pull requests](http://firebirddesigns.net16.net/github/pull.svg)](https://github.com/Technologx/Browser-Themes/pulls)<br />
-#### Click 1 of the badges above to visit the attached link they are also below the theme's list.
-# Browser Themes <br />
+#### 👆 Click 1 of the badges above to visit the attached link they are also below the theme's list.
+# Browser Themes 👆 <br />
 -Quick Jump:
 <a href='#c'>C</a> <a href='#t'>T</a>
 
