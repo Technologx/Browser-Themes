@@ -5,8 +5,8 @@
 -Quick Jump:
 <a href='#c'>C</a> <a href='#t'>T</a>
 
-<a href='https://github.com/Technologx/Browser-Themes/Themes/Chrome/' target='_blank'><img src='https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_64x64.png'></a>
-<a href='https://github.com/Technologx/Browser-Themes/Themes/FireFox/' target='_blank'><img src='https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_64x64.png'></a>  
+<a href='https://github.com/Technologx/Browser-Themes/tree/master/Themes/Chrome/' target='_blank'><img src='https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_64x64.png'></a>
+<a href='https://github.com/Technologx/Browser-Themes/tree/master/Themes/FireFox/' target='_blank'><img src='https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_64x64.png'></a>  
 A collection of themes for Firefox &amp; Google Chrome
 
 **Sorry for the adf.ly links I use them to try and get money to keep my <a href='http://adf.ly/1ZQ6rs' target='_blank'>website</a> up &amp; running.
